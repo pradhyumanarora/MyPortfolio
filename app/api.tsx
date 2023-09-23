@@ -1,0 +1,82 @@
+const logo = [
+    {
+        src:'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg',
+        alt:'mysql',
+        name:'MySQL'
+    },
+    {
+        src:'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg',
+        alt:'azure',
+        name:'Azure'
+    },
+    {
+        src:'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg',
+        alt:'cplusplus',
+        name:'C++'
+    },
+    {
+        src:'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg',
+        alt:'css3',
+        name:'CSS'
+    },
+    {
+        src:'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg',
+        alt:'django',
+        name:'Django'
+    },
+    {
+        src:'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg',
+        alt:'express',
+        name:'Express'
+    },
+    {
+        src:'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg',
+        alt:'git',
+        name:'Git/Github'
+    },
+    // {
+    //     src:'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg',
+    //     alt:'github',
+    // },
+    {
+        src:'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg',
+        alt:'googlecloud',
+        name:'GoogleCloud'
+    },
+    {
+        src:'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg',
+        alt:'html5',
+        name:'HTML'
+    },
+    {
+        src:'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg',
+        alt:'javascript',
+        name:'JavaScript'
+    },
+    {
+        src:'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg',
+        alt:'mongodb',
+        name:'MongoDB'
+    },
+    {
+        src:'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg',
+        alt:'nodejs',
+        name:'NodeJS'  
+    },
+    {
+        src:'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg',
+        alt:'php',
+        name:'PHP'
+    },
+    {
+        src:'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg',
+        alt:'python',
+        name:'Python'
+    },
+    {
+        src:'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg',
+        alt:'react',
+        name:'ReactJS'
+    }
+];
+export default logo;
