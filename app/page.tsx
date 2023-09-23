@@ -28,7 +28,7 @@ export default function Home() {
       <main className='bg-white pt-24 px-10 md:px-20 lg:px-40 dark:bg-gray-800'>
         <section className="min-h-screen">
           <div className='text-center p-5'>
-            <h2 className='text-5xl py-2 text-teal-600 font-medium'>Hi, I`&apos;`m Pradhyuman Arora</h2>
+            <h2 className='text-5xl py-2 text-teal-600 font-medium'>Hi, I&apos;m Pradhyuman Arora</h2>
             {/* <h3 className='text-2xl py-2 md:text-3xl'>Software Engineer and Developer</h3> */}
             <h3 className='text-2xl py-2 md:text-3xl dark:text-teal-50'>I am a<Typewriter
               options={{
@@ -65,9 +65,9 @@ export default function Home() {
             </h2>
             <div className='text-md py-5 leading-8 text-gray-800 md:text-6xl lg:text-xl dark:text-amber-50'>
               <p>
-                I`&apos;`m Pradhyuman Arora, a B. Tech student at Vellore Institute of Technology, Chennai, specializing in Computer Science & Engineering. My passion lies in backend development and cloud technologies, with hands-on experience in GCP and Azure.</p>
+                I&apos;m Pradhyuman Arora, a B. Tech student at Vellore Institute of Technology, Chennai, specializing in Computer Science & Engineering. My passion lies in backend development and cloud technologies, with hands-on experience in GCP and Azure.</p>
               <p>
-                As a software developer, I`&apos;`m dedicated to crafting robust solutions and staying at the forefront of technology. I believe in continuous self-development, always seeking new knowledge and skills to make a meaningful impact in the tech world.
+                As a software developer, I&apos;m dedicated to crafting robust solutions and staying at the forefront of technology. I believe in continuous self-development, always seeking new knowledge and skills to make a meaningful impact in the tech world.
               </p>
             </div>
             <h2 className='text-5xl py-2 pt-20 font-medium lg:p-2'>
@@ -122,7 +122,7 @@ export default function Home() {
             </h2>
             <div className='text-center my-7 p-7 shadow-[rgba(0,_0,_0,_0.24)_0px_3px_8px] dark:text-gray-100'>
               <h3 className='font-medium py-3'>What I Do?</h3>
-              <p>I`&apos;`m a passionate software developer with expertise in web development, database management, and data science. I create dynamic web applications using ReactJS, NodeJS, and Django, while proficiently managing MySQL and MongoDB databases. My commitment to cybersecurity ensures robust system integrity, and I leverage cloud platforms like GCP and Azure for scalable solutions. With Git, Docker, and Postman, I streamline development workflows for efficient coding practices. My dedication to continuous learning fuels my drive to excel in the ever-evolving tech landscape.</p>
+              <p>I&apos;m a passionate software developer with expertise in web development, database management, and data science. I create dynamic web applications using ReactJS, NodeJS, and Django, while proficiently managing MySQL and MongoDB databases. My commitment to cybersecurity ensures robust system integrity, and I leverage cloud platforms like GCP and Azure for scalable solutions. With Git, Docker, and Postman, I streamline development workflows for efficient coding practices. My dedication to continuous learning fuels my drive to excel in the ever-evolving tech landscape.</p>
             </div>
             <div className='grid grid-cols-4 gap-6 dark:text-gray-100'>
 
